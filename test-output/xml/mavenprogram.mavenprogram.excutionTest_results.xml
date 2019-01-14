@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="16.132">
+  <properties />
+  
+  
+            <testcase name="amazon" time="16.132" classname="mavenprogram.mavenprogram.excutionTest" />
+      
+</testsuite>
